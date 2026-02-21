@@ -31,12 +31,12 @@ I am actively strengthening my skills in **SystemVerilog and UVM-based verificat
 - SystemVerilog & UVM Verfication  
 - C/C++
 - Python
-- 
+  
 ### EDA Tools
 - Xilinx Vivado  
 - Questasim  
 - EDA playground
-- 
+  
 ### Scripting & Environment
 - Linux  
 - TCL  
