@@ -3,7 +3,7 @@
 🔍 **VLSI Engineer | RTL Design | Digital Verification**
 
 VLSI engineer with interests in RTL design, digital verification, and system-level understanding.  
-Completed a PG Diploma in VLSI Design from C-DAC ACTS, Pune**, with a focus on **frontend design and verification workflows**.
+Completed a PG Diploma in VLSI Design from C-DAC ACTS, Pune, with a focus on **frontend design and verification workflows**.
 
 ---
 
@@ -20,7 +20,7 @@ I am actively strengthening my skills in **SystemVerilog and UVM-based verificat
 - Digital System Architecture  
 - Linux, TCL & Automation  
 
-**Bachelor’s Degree in Engineering** — *Electronics / E&TC*  
+**Bachelor's Degree in Engineering** — *Electronics / E&TC*  
 
 ---
 
@@ -28,7 +28,7 @@ I am actively strengthening my skills in **SystemVerilog and UVM-based verificat
 
 ### HDL & Programming
 - Verilog  
-- SystemVerilog & UVM Verfication  
+- SystemVerilog & UVM Verification  
 - C/C++
 - Python
   
@@ -46,13 +46,14 @@ I am actively strengthening my skills in **SystemVerilog and UVM-based verificat
 
 ## 🛠️ Projects
 ### Academic VLSI Project (C-DAC)
-- Design and Verfication of AXI4 lite to APB bridge
+- Design and Verification of AXI4 lite to APB bridge
 - RTL design with verification  
 - Timing-aware implementation
-- 
+  
 ### BE Final Year Project — Modern Electronic Control Unit (ECU) for Electric Two-Wheeler
 - Developed an **embedded ECU** for electric two-wheelers integrating multiple sensors and control units
 - Implemented **fault detection, safety interlocks, and protective mechanisms** to enhance rider and system safety
+
 ---
  
 ## 📌 Core Strengths
@@ -66,4 +67,5 @@ I am actively strengthening my skills in **SystemVerilog and UVM-based verificat
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/prathamesh-kapure-472a30266)
 - 💻 [GitHub](https://github.com/PrathameshKapure19)
+
 ---
