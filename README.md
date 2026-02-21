@@ -6,7 +6,7 @@ VLSI engineer with interests in RTL design, digital verification, and system-lev
 Completed a PG Diploma in VLSI Design from C-DAC ACTS, Pune, with a focus on **frontend design and verification workflows**.
 
 ---
-
+ 
 ## 🚀 About Me
 I work primarily in **digital design and verification**, with a design-oriented mindset that helps identify **failure modes and corner cases early**.
 I am actively strengthening my skills in **SystemVerilog and UVM-based verification**, along with **Linux and TCL-based automation**, through hands-on coursework and projects.
