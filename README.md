@@ -20,7 +20,7 @@ I am actively strengthening my skills in **SystemVerilog and UVM-based verificat
 - Digital System Architecture  
 - Linux, TCL & Automation  
 
-**Bachelor's Degree in Engineering** — *Electronics / E&TC*  
+**Bachelor's Degree in Engineering** — *E&TC from Savitri Bai Phule Pune University*  
 
 ---
 
