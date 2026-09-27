@@ -2,7 +2,7 @@
 
 ### Design Verification Engineer | VLSI | RTL & Functional Verification
 
-I am a **Design Verification Engineer** with **7 months of hands-on internship experience in Design Verification at Vrifast, Pune**.
+I am a **Design Verification Engineer** with **7 months of hands-on internship experience in Design Verification at Verifast Technologies Pvt. Ltd., Pune**.
 
 My work focuses on developing and debugging verification environments for digital designs, with an emphasis on **functional verification, UVM-based methodologies, constrained-random testing, RTL debugging, and coverage-driven verification**.
 
