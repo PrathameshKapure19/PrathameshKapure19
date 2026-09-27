@@ -12,7 +12,7 @@ I enjoy understanding designs at both the RTL and system level, developing effec
 
 ## 💼 Professional Experience
 
-### Design Verification Intern — Vrifast, Pune
+### Design Verification Intern — Verifast technologies, Pune
 **7 Months**
 
 - Worked on functional verification of digital designs.
