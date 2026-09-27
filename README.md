@@ -1,68 +1,52 @@
-# Hi, I'm Prathamesh 👋  
+# Hi, I'm Prathamesh 👋
 
-🔍 **VLSI Engineer | RTL Design | Digital Verification**
+### Design Verification Engineer | VLSI | RTL & Functional Verification
 
-VLSI engineer with interests in RTL design, digital verification, and system-level understanding.  
-Completed a PG Diploma in VLSI Design from C-DAC ACTS, Pune, with a focus on **frontend design and verification workflows**.
+I am a **Design Verification Engineer** with **7 months of hands-on internship experience in Design Verification at Vrifast, Pune**.
 
----
- 
-## 🚀 About Me
-I work primarily in **digital design and verification**, with a design-oriented mindset that helps identify **failure modes and corner cases early**.
-I am actively strengthening my skills in **SystemVerilog and UVM-based verification**, along with **Linux and TCL-based automation**, through hands-on coursework and projects.
+My work focuses on developing and debugging verification environments for digital designs, with an emphasis on **functional verification, UVM-based methodologies, constrained-random testing, RTL debugging, and coverage-driven verification**.
+
+I enjoy understanding designs at both the RTL and system level, developing effective verification scenarios, identifying corner cases, and debugging failures using simulation and waveform analysis.
 
 ---
 
-## 🎓 Education & Training
-**PG Diploma in VLSI Design** — *C-DAC ACTS, Pune*  
-- Frontend RTL Design  
-- SystemVerilog & UVM Verification  
-- Digital System Architecture  
-- Linux, TCL & Automation  
+## 💼 Professional Experience
 
-**Bachelor's Degree in Engineering** — *E&TC from Savitribai Phule Pune University*  
+### Design Verification Intern — Vrifast, Pune
+**7 Months**
 
----
-
-## 🛠️ Technical Skills
-
-### HDL & Programming
-- Verilog  
-- SystemVerilog & UVM Verification  
-- C/C++
-- Python
-  
-### EDA Tools
-- Xilinx Vivado  
-- Questasim  
-- EDA playground
-  
-### Scripting & Environment
-- Linux  
-- TCL  
-- Bash  
+- Worked on functional verification of digital designs.
+- Developed and debugged UVM-based verification environments.
+- Created directed and constrained-random test scenarios.
+- Worked with sequences, sequencers, drivers, monitors, agents, and scoreboards.
+- Developed reference models and checking mechanisms for functional validation.
+- Debugged RTL and testbench issues using simulation logs and waveforms.
+- Verified normal operating scenarios as well as corner cases.
+- Worked with burst transactions, wait states, cache behavior, and data integrity scenarios.
+- Analyzed failures and performed root-cause debugging.
 
 ---
 
-## 🛠️ Projects
-### Academic VLSI Project (C-DAC)
-- Design and Verification of AXI4 lite to APB bridge
-- RTL design with verification  
-- Timing-aware implementation
-  
-### BE Final Year Project — Modern Electronic Control Unit (ECU) for Electric Two-Wheeler
-- Developed an **embedded ECU** for electric two-wheelers integrating multiple sensors and control units
-- Implemented **fault detection, safety interlocks, and protective mechanisms** to enhance rider and system safety
+## 🔬 Verification Projects
 
----
- 
-## 📌 Core Strengths
-- Design-aware verification mindset  
-- Strong understanding of **setup/hold, timing paths, and CDC basics**  
-- Efficient RTL debugging and failure analysis  
-- Comfortable with **scripted and tool-driven workflows**
+### AHB / QSPI Controller Verification
 
----
+Developing a UVM-based verification environment for an AHB-connected QSPI controller.
+
+#### Verification Areas
+
+- Single and multiple read transactions
+- Back-to-back transfers
+- Burst transactions
+- INCR4 / INCR8 bursts
+- WRAP4 / WRAP8 bursts
+- Wait-state scenarios
+- Cache-line accesses
+- Cache-line boundary conditions
+- QSPI flash modeling
+- Scoreboard-based data checking
+- Functional verification
+- Waveform-based debugging
 
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/prathamesh-kapure-472a30266)
